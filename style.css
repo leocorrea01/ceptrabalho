@@ -1,0 +1,33 @@
+
+.cadastro {
+    background-color: antiquewhite;
+    justify-content: center;
+}
+.cep {
+    background-color: aquamarine;
+    justify-content: center;
+}
+.rua {
+    background-color: aquamarine;
+    justify-content: center;
+
+}
+.body {
+    background-color: aqua;
+    justify-content: center;
+}
+.endereço {
+    background-color: aquamarine;
+}
+.número {
+    background-color: aquamarine;
+}
+.Bairro {
+    background-color: aquamarine;
+}
+.cidade {
+    background-color: aquamarine;
+}
+.Estado {
+    background-color: aquamarine;
+}
